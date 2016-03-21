@@ -5,7 +5,7 @@ All remote corpora hosted by github on the cltk organization account, eg:
 
 SLAVIC_CORPORA = [
     {'encoding': 'utf-8',
-     'markup': 'xml',
+     'markup': 'tei_xml',
      'location': 'remote',
      'type': 'text',
      'name': 'slavic_text_scht'}
